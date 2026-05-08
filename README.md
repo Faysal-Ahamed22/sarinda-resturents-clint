@@ -1,5 +1,7 @@
 # SARINDA — Restaurant Client
 
+Live Link : https://sadinda-cafe.web.app/
+
 A responsive React + Vite client for the SARINDA restaurant app. Uses Tailwind CSS + daisyUI and integrates with a deployed API and EmailJS for contact messages.
 
 **Quick links**
